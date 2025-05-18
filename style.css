@@ -48,3 +48,42 @@ h1 {
 .parent-link:hover {
   background: #1a2540;
 }
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.primary-btn {
+  display: inline-block;
+  padding: 0.6em 1.3em;
+  background: #2a3d6c;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.2s;
+  border: none;
+}
+
+.primary-btn:hover {
+  background: #1a2540;
+}
+
+.secondary-btn {
+  display: inline-block;
+  padding: 0.6em 1.3em;
+  background: #e6eaf3;
+  color: #2a3d6c;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.2s;
+  border: none;
+}
+
+.secondary-btn:hover {
+  background: #cfd8e8;
+}
