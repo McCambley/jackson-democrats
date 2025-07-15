@@ -103,3 +103,24 @@ hr {
 .secondary-btn:hover {
   background: #cfd8e8;
 }
+
+.minutes h3,
+.minutes h4,
+.minutes h5 {
+  font-size: 20px;
+}
+
+.minutes h1,
+.minutes h2,
+.minutes h3,
+.minutes h4,
+.minutes h5,
+.minutes p,
+.minutes ul,
+.minutes li,
+.minutes ol,
+.minutes hr {
+  margin: 0;
+  margin-bottom: 0.5rem;
+  max-width: 60ch;
+}
