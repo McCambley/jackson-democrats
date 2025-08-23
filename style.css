@@ -125,3 +125,30 @@ hr {
   margin-bottom: 0.5rem;
   max-width: 60ch;
 }
+
+.page-representatives h1,
+.page-representatives h2,
+.page-representatives h3,
+.page-representatives h4,
+.page-representatives h5,
+.page-representatives p,
+.page-representatives ul,
+.page-representatives li,
+.page-representatives ol,
+.page-representatives b,
+.page-representatives hr {
+  /* margin: 0; */
+  /* margin-bottom: 0.5rem; */
+  max-width: 100%;
+}
+
+.page-representatives img {
+  max-width: 400px;
+  margin: 0 auto;
+  display: block;
+}
+
+.page-representatives {
+  max-width: 48rem;
+  margin: 0 auto;
+}
