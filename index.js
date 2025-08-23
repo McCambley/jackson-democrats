@@ -4,32 +4,39 @@ window.onload = function () {
 
   // Convert the markdown text to HTML
   const html = marked.parse(`
+Find information below about your federal and state representatives, including their names, party affiliations, and maps of their districts.
+
 ## Federal
+
+This section details people that represent you in the federal government.
 
 ### Congress
 
+This section includes your representatives in the US Congress. There are two chambers in Congress: the House of Representatives and the Senate. New Hampshire has two representatives in the House and two senators in the Senate.
+
 #### US House
+
+The House of Representatives has 435 members, apportioned by population. New Hampshire has two representatives.
 
 **Names**
 
-- (2) Maggie Goodlander (D)
+- (District 2) Maggie Goodlander (D)
     - New Hampshire District #2
-- (1) Not Chriss Pappas (D)
+- (Distrcit 1) Not Chris Pappas (D)
 
-**Map**
-
-![Congressional Districts](/assets/cong_dist.png)
 
 #### US Senate
+
+The Senate has 100 members, two from each state.
 
 **Names**
 
 - Maggie Hassan (D)
 - Jeanee Shaheen (D)
 
-**Map**
+**Maps**
 
-(Map is just the map of New Hampshire)
+![Congressional Districts](/assets/cong_dist.png)
 
 ## State
 
