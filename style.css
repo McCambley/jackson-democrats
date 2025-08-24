@@ -60,10 +60,10 @@ h1 {
 }
 
 .button-group {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr;
   justify-content: center;
   gap: 1rem;
-  margin-top: 1.5rem;
 }
 
 hr {
@@ -104,6 +104,12 @@ hr {
   background: #cfd8e8;
 }
 
+.minutes,
+.page-representatives {
+  max-width: 60ch;
+  margin: 0 auto;
+}
+
 .minutes h3,
 .minutes h4,
 .minutes h5 {
@@ -121,9 +127,9 @@ hr {
 .minutes ol,
 .minutes b,
 .minutes hr {
-  margin: 0;
-  margin-bottom: 0.5rem;
-  max-width: 60ch;
+  /* margin: 0; */
+  /* margin-bottom: 0.5rem; */
+  /* max-width: 60ch; */
 }
 
 .page-representatives h1,
@@ -144,11 +150,7 @@ hr {
 
 .page-representatives img {
   max-width: 400px;
+  width: 100%;
   margin: 0 auto;
   display: block;
-}
-
-.page-representatives {
-  max-width: 48rem;
-  margin: 0 auto;
 }
