@@ -26,7 +26,7 @@ The group reviewed new voting rules, using a handout provided by Meredith that i
 
 ### 3. Legislative Report from Chris McAleer
 
-Chris thanked the Jackson Democrats for their support and discussed his legislative work, highlighting his perfect attendance in the State House. His main legislative priority is to **reinstate the interest and dividend tax**, which he believes is a non-regressive tax. He also mentioned the possibility of taxing required minimum distributions from out-of-state retirement plans. Chris also touched on the topic of **school vouchers**, and a discussion with Jake about how to make representing more appealing, acknowledging a sense of concern that a lack of compensation and the political climate could lead to an increase in representatives that don’t represent the people of new hampshire.
+Chris thanked the Jackson Democrats for their support and discussed his legislative work, highlighting his perfect attendance in the State House. His main legislative priority is to **reinstate the interest and dividend tax**, which he believes is a non-regressive tax. He also mentioned the possibility of taxing required minimum distributions from out-of-state retirement plans. Chris also touched on the topic of **school vouchers**, and a discussion with Jake about how to make representing more appealing, acknowledging a sense of concern that a lack of compensation and the political climate could lead to an increase in representatives that don’t represent the people of New Hampshire.
 
 ### 4. Action Items
 
@@ -37,7 +37,7 @@ Chris thanked the Jackson Democrats for their support and discussed his legislat
 ### 5. Resources
 
 - [New Hampshire Voter Registration Guide](https://www.sos.nh.gov/sites/g/files/ehbemt561/files/inline-documents/sonh/registering-to-vote-in-new-hampshire-february-2025_3.pdf)
-- [What to Do If ICE Comes to Your Door](https://www.aclu.org/know-your-rights-share-your-rights-immigrants-rights)
+- [Immigrants' Rights](https://www.aclu.org/know-your-rights-share-your-rights-immigrants-rights)
 
 ---
 
