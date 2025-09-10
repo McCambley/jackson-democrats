@@ -34,6 +34,11 @@ Chris thanked the Jackson Democrats for their support and discussed his legislat
 - **Meredith** will lead the effort to create and distribute flyers about voter registration.
 - **Nancy** will contact Leslie to see about publishing the voter checklist in Jackson ENews.
 
+### 5. Resources
+
+- [New Hampshire Voter Registration Guide](https://www.sos.nh.gov/sites/g/files/ehbemt561/files/inline-documents/sonh/registering-to-vote-in-new-hampshire-february-2025_3.pdf)
+- [What to Do If ICE Comes to Your Door](https://www.aclu.org/know-your-rights-share-your-rights-immigrants-rights)
+
 ---
 
 ### Monday August 11th
