@@ -5,7 +5,7 @@ const markdown = `
 
 ### 1. Voting and Election Rules
 
-The group reviewed new voting rules, using a handout provided by Meredith that includes a QR code linking to a New Hampshire voter registration guide. Key points of the discussion included:
+The group reviewed new voting rules, using a handout provided by Meredith that includes a QR code linking to a [New Hampshire voter registration guide](https://www.sos.nh.gov/sites/g/files/ehbemt561/files/inline-documents/sonh/registering-to-vote-in-new-hampshire-february-2025_3.pdf). Key points of the discussion included:
 
 - New residents can register with the town clerk.
 - **Same-day voter registration** is still available.
