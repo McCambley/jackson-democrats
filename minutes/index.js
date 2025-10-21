@@ -1,6 +1,61 @@
 const markdown = `
 --- 
 
+### Monday October 21st, 2025
+
+### **Countywide Voter Outreach Efforts**
+
+Anita Burroughs joined the meeting to share updates on county-level voter outreach and current issues at the Statehouse.
+
+- **Early Canvassing & Candidate Support:** District 3 dems are leading conversational canvassing efforts. Anita expressed interest in seeing early outreach results for Adam Heard. She noted he has a strong local background and commitment to the role.
+- **Data Access & Coordination:** A team is developing a plan to make voter data more accessible to town chairs through VoteBuilder. The goal is to roll this out soon, though the timeline may extend slightly.
+- **Candidate Recruitment:** Anita is working to identify potential candidates, especially in Conway. They hope to recruit earlier this year to avoid last-minute filings.
+- **Voter Registration Partnerships:** Since the committee cannot register voters directly, Anita encouraged working with the League of Women Voters to hold registration events. Meredith mentioned the library as a possible venue.
+- **Outreach Ideas:** Members discussed contacting realtors to reach new residents and distributing registration materials at community events such as Cheese Louise gatherings or house parties.
+- **Health Care & Budget Updates:** Anita highlighted recent editorials she’s written on upcoming health insurance changes and state budget impacts.
+- **Discussion Points:**
+    - Focus for Jackson Dems should remain voter registration.
+    - Local Democrats are encouraged to join high school registration drives.
+    - Anita suggested finding new potential candidates for smaller offices.
+    - Possible challengers to Kelly Ayotte are still unclear.
+
+### **Ongoing Jackson Voter Outreach Initiatives**
+
+- Meredith has distributed voter registration flyers across town.
+- We scrapped the idea of putting the voter registration list in ENews, Instead, Nancy will explore adding voter registration reminders in the ENews.
+- Ashley suggested asking the library to include registration information in their newsletter.
+- Anita emphasized collecting community email contacts, suggesting a possible Zoom event.
+- Jake noted that the Passport Fair series has concluded for the year; scheduling for next year will be discussed later.
+
+### **Candidate Recruitment**
+
+- Discussion focused on Adam Heard as the District 2 candidate. Members may invite him to a future meeting or hold a house party later in the season. No immediate decision was made on the timing.
+
+### **Additional Discussion**
+
+- Brief conversation on gerrymandering concerns in other states and monitoring similar risks in New Hampshire.
+
+### **Upcoming Events**
+
+- Committee BBQ: Sunday, Oct 26, 11am–2pm, 108 Lee Road, Moultonborough
+- Repro Rights Trivia: Wednesday, Oct 29, 6:30–8pm, Cheese Louise
+- Walk Out Wednesdays: 4:30–6pm (schedule under review)
+- MWV ICE Rapid Response Training: Thursday, Oct 23, email [programs@worldfellowship.org](mailto:programs@worldfellowship.org) for details
+- MWV Housing Coalition Breakfast: Tuesday, Oct 28, 8–11am, Fairbank Lodge at Cranmore
+- Unity Works Sunday: Oct 26, 4–5:30pm, Church basement
+- A note that there is **no election in Jackson** on November 4th.
+
+### **Next Meeting**
+
+- Scheduled for Monday, November 10
+
+### **Action Items**
+
+- Nancy will contact local realtors about new residents for voter registration.
+- Meredith will follow up with the Town Office about registration outreach.
+
+---
+
 ### Monday September 8th, 2025
 
 ### 1. Voting and Election Rules
