@@ -1,6 +1,53 @@
 const markdown = `
 --- 
 
+### Monday, November 10, 2025
+
+### Presentation from Anita Burroughs
+
+Fundraiser to Support Vaughn Center 
+
+- Anita proposed organizing a fundraiser, encouraging the donation of $40 Market Basket gift cards.
+- Suggested format: cookie swap event, where attendees could bring donations.
+- Timing: Ideally before the holidays, with holiday-themed cookies.
+- Joyce questioned if the event should fall under the Jackson Democrats umbrella. Anita mentioned that past events were typically sponsored by state representatives, not the local committee.
+- Ashley suggested aligning the event date with Anita’s planned effort.
+- Nancy offered to spearhead the event and will reach out to Dan Lavigne at the Way Station.
+
+### District 2 Candidate Support / Albany Collaboration
+
+- Early discussions held regarding joint efforts with Albany Democrats to support a Democratic candidate in District 2.
+- David Paige has will run in Conway. Stephen Woodcock is undecided. Tom Buco will not run.
+- Concern raised about Karen Umberger (Republican) potentially winning the seat.
+- Anita and Kim Fudge will hold a Conway-focused candidate recruitment gathering.
+
+### Ongoing Voter Outreach Initiatives
+
+Meredith’s Updates
+
+- Working on updated flyers with voter registration information tailored to Jackson. They could be based on League of Women Voters flyer with local additions. Will confirm ability to display at Town Office and publish in Library Newsletter. No progress yet on confirming E-News visibility.
+
+Nancy’s Updates
+
+- No longer exploring outreach via local realtors to inform new residents about voter registration since the town clerks already handle ensuring potential voters get registered.
+- Proposed for a District 2 candidate house party (potentially for Adam Heard). Event would occur next summer. Anita's participation is desired. Nancy remains willing to host the event.
+
+### Action Items & Follow-Up
+
+- Nancy will contact Dan Lavigne at the Way Station to coordinate the proposed holiday fundraiser event.
+- Meredith will update and distribute voter registration flyers, incorporating Jackson-specific information based on the League of Women Voters template.
+- Meredith will confirm whether the voter registration flyer can be included in the Library Newsletter and made available at the Town Office.
+
+### Upcoming Events
+
+- Democracy on Tap: Tuesday 11/11 from 6:00pm @ Cheese Louise
+- Walk Out Wednesdays: Now from 3:00pm-4:00pm
+- MWV ICE Rapid Response Training: Learn how to support our community members in emergencies with U.S. Immigration & Customs Enforcement (I.C.E.). November 13th from 6:30-9 pm, email programs@worldfellowship.org for location
+- Unity Works Sunday: December 6th from 4-8 pm at 28 Deer Run in Jackson
+
+### **Next Meeting**
+- Monday, November the 8th at 7:00pm at the Whitney Community Center
+
 ### Monday October 21st, 2025
 
 ### **Countywide Voter Outreach Efforts**
