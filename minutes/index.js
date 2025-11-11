@@ -5,7 +5,7 @@ const markdown = `
 
 ### Presentation from Anita Burroughs
 
-Fundraiser to Support Vaughn Center 
+Fundraiser to Support the Way station 
 
 - Anita proposed organizing a fundraiser, encouraging the donation of $40 Market Basket gift cards.
 - Suggested format: cookie swap event, where attendees could bring donations.
@@ -17,7 +17,7 @@ Fundraiser to Support Vaughn Center
 ### District 2 Candidate Support / Albany Collaboration
 
 - Early discussions held regarding joint efforts with Albany Democrats to support a Democratic candidate in District 2.
-- David Paige has will run in Conway. Stephen Woodcock is undecided. Tom Buco will not run.
+- David Paige will run in Conway. Stephen Woodcock is undecided. Tom Buco will not run.
 - Concern raised about Karen Umberger (Republican) potentially winning the seat.
 - Anita and Kim Fudge will hold a Conway-focused candidate recruitment gathering.
 
@@ -46,7 +46,9 @@ Nancy’s Updates
 - Unity Works Sunday: December 6th from 4-8 pm at 28 Deer Run in Jackson
 
 ### **Next Meeting**
-- Monday, November the 8th at 7:00pm at the Whitney Community Center
+- Monday, December the 8th at 7:00pm at the Whitney Community Center
+
+---
 
 ### Monday October 21st, 2025
 
