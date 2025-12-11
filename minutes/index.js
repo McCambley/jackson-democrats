@@ -1,6 +1,70 @@
 const markdown = `
 --- 
 
+### Monday, December 8, 2025
+
+### County-Wide Updates
+
+- The Mount Washington Valley Democrats (MWVDems) chairs have not convened recently.
+- Kim Fudge is focusing efforts on voter outreach across the county.
+- A county-wide meeting is being planned to encourage coordination among local Democratic groups. Ashley is leading the planning of this initiative.
+- The League of Women Voters will host a program at the Conway Library sometime in 2026. Meredith will contact Liz to coordinate a similar event in Jackson.
+- A presentation titled "Who Are the Free Staters?" is tentatively scheduled for post-winter 2026.
+- Meredith highlighted two key legislative items:
+    - HB 232: A “provider refusal” bill allowing healthcare providers to deny services based on personal beliefs.
+    - HB 191: A bill introducing further restrictions on access to safe and legal abortion care.
+    - Both bills are scheduled for votes in early January 2026. Public comment has closed.
+    - Kelly Ayotte has publicly stated she would veto any legislation restricting access to reproductive care. We’ll see if she backs that up.
+
+### Candidate Recruitment
+
+- Paige Bauchmin is running for Maggie Goodlander’s seat. The Albany Democrats have expressed continued interest in hosting a related event.
+- A discussion on the committee’s stance on hosting events lead to an informal agreement that would allow candidate events only if all declared Democratic candidates are invited equally and given the opportunity to speak.
+
+### Ongoing Jackson Voter Outreach Initiatives
+
+Voter Registration Messaging
+
+- Discussion centered around clarifying and shortening the voter registration notice.
+- Once finalized and verified by the Supervisors of the Checklist:
+    - The notice will appear in the Jackson Library newsletter and in eNews.
+- A request will be made to town departments to contact Julie Hoyt to include the voter registration notice on the following town platforms:
+    - Supervisors of the Checklist page
+    - Town Clerk/Tax Collector page
+
+Jingle Jam (December 19, 2025)
+
+- Community members may bring Market Basket gift cards or make in-person donations.
+- 10 volunteers have signed up to bake cookies.
+- Nancy will staff the table alongside Ted.
+- All proceeds benefit the Way Station.
+
+### Upcoming Events
+
+- Walk Out Wednesdays: From 3:00pm-4:00pm
+- Unity Works Sunday: Sunday, 1/25 at 4:00 pm
+    - Taylor Maine from the NH ACLU will attend a February Unity Works meeting to share information about important NH legislative issues.
+- Celebrating Democracy: Sunday 1/11 4:00-5:30 @ Whitney Center
+
+### Action Items
+
+- Meredith
+  - Edit and send out the voter registration notice.
+  - Reach out to Supervisors of the Checklist for verification and approval.
+  - Ask the Supervisors and Town Clerk to include this notice on official town pages.
+- Jake
+  - Draft a list of suggested locations for the notice on the Jackson town website, including:
+  - Send Meredith a list of items to include on a January outreach flyer, such as:
+  - Create and share a QR code linking to the website.
+  - Update the website's representative display, including:
+  - Adding Outreach Directors, e.g., [Stephanie Weiner](https://www.legistorm.com/person/bio/460907/Stephanie_J_Weiner.html)
+
+### Next Meeting
+
+- January 12th, 2026 at the Old Jackson Library
+
+---
+
 ### Monday, November 10, 2025
 
 ### Presentation from Anita Burroughs
