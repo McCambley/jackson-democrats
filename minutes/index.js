@@ -2,89 +2,89 @@ const markdown = `
 
 ## Monday, January 12th, 2026
 
-## 1. Call to Order
+## **Call to Order**
 
-**Attendees (as recorded):**
+**Attendees:**
 
-Joyce, Nancy, Meredith, Ted, Chris McLeer, Adam Heard, Ashley, and Jake
+Joyce Allan, Nancy Nygreen, Meredith Piotrow, Ted Nygreen, Chris McAleer, Adam Heard, Ashley Fife, Jake McCambley
 
-## 2. Discussion on Past Events and Ongoing Initiatives
+## **Discussion on Past Events and Ongoing Initiatives**
 
-### a. Karen Liot Hill Press Conference
+### **a. Karen Liot Hill Press Conference**
 
-- A large group attended the press conference. The event was described as emotional and framed primarily as a **freedom of speech** issue. **Meredith, Nancy, and Joyce** attended to show support from Jackson. **Nancy** commented that the event demonstrated a high level of organization among statewide Democrats.
+- A large group attended the press conference to protest the wrongful impeachment of Karen Liot Hill. The event was described as emotional and framed primarily as a freedom of speech issue. Meredith, Nancy, and Joyce attended to show support from Jackson. Nancy commented that the event demonstrated a high level of organization among statewide Democrats.
 
-### b. Cookie Swap Fundraiser
+### **b. Cookie Swap Fundraiser**
 
-- The event raised **almost $800 and t**urnout was as solid. The Way Station expressed appreciation; however, it was noted that the organization is currently experiencing financial difficulties and is unable to operate at its usual capacity.
+- The event raised almost $800 and turnout was as solid. The Way Station expressed appreciation; however, it was noted that the organization is currently experiencing financial difficulties and is unable to operate at its usual capacity.
 
-### c. Voter Registration & Voting Information Efforts
+### **c. Voter Registration & Voting Information Efforts**
 
-- **Meg** printed a voter registration blurb for the library newsletter. Meredith reported that she spoke with the relevant contact the previous day and will attempt to include notice about an upcoming **League of Women Voters (LOWV)** event. Additionally, the final voter information message was passed along to the Supervisors of the Checklist.
+- Meg printed a voter registration blurb for the library newsletter. Meredith reported that she spoke with the relevant contact the previous day and will attempt to include notice about an upcoming League of Women Voters (LOWV) event. Additionally, the final voter information message was passed along to the Supervisors of the Checklist.
 
-### d. Legislative Session Updates
+### **d. Legislative Session Updates**
 
-- **Chris** discussed recent Democratic wins in the legislative session. **HB 675** was cited as a significant Democratic win. Concern was raised that Republicans prioritize tax cuts for businesses over funding programs such as school meals. Members were encouraged to contact **Kelly Ayotte** and urge vetoes of certain legislation.
+- Chris discussed recent Democratic wins in the legislative session. HB 675 was cited as a significant Democratic win. Concern was raised that Republicans prioritize tax cuts for businesses over funding programs such as school meals. Members were encouraged to contact Kelly Ayotte and urge vetoes of certain legislation.
 
-## 3. Potential Speakers for Future Meetings
+## **Potential Speakers for Future Meetings**
 
-- **Karen Liot Hill** offered to speak at a future event, potentially at the **county level rather than a Jackson-specific meeting**. **Congressman Chris Pappas** has also offered to speak. There is ongoing interest in organizing a **county-wide meeting**, though details are still being developed.
+- Karen Liot Hill offered to speak at a future event, potentially at the county level rather than a Jackson-specific meeting. Congressman Chris Pappas' organizer has also offered to organize a potential speaking event. There is ongoing interest in organizing a county-wide meeting, though details are still being developed.
 
-## 4. Warrant Articles Discussion (Town Meeting)
+## **Warrant Articles Discussion (Town Meeting)**
 
-A discussion was held regarding potential **Citizen Petition Warrant Articles** to be presented at Town Meeting.
+A discussion was held regarding potential Citizen Petition Warrant Articles to be presented at Town Meeting.
 
-### Votes Recorded
+### **Votes Recorded**
 
-The committee conducted an informal vote regarding which **Citizen Petition Warrant Articles** to pursue for Town Meeting.
+The committee conducted an informal vote regarding which Citizen Petition Warrant Articles to pursue for Town Meeting.
 
 **Vote Results:**
 
-- **Protecting the Taxpayer (Stop State Cost Downshifting):** 7 in favor
-- **Public Dollars for Public Schools (Education Freedom Accounts):** 6 in favor
-- **Fair Voting Districts (Independent Redistricting Commission):** 2 in favor
-- **Local Self-Governance (Non-Partisan Local Races):** 0 in favor
-- **Local Control Over School Budgets (Oppose State-Mandated Budget Caps):** 0 in favor
+- Protecting the Taxpayer (Stop State Cost Downshifting): 7 in favor
+- Public Dollars for Public Schools (Education Freedom Accounts): 6 in favor
+- Fair Voting Districts (Independent Redistricting Commission): 2 in favor
+- Local Self-Governance (Non-Partisan Local Races): 0 in favor
+- Local Control Over School Budgets (Oppose State-Mandated Budget Caps): 0 in favor
 
 **Decision:**
 
-The committee voted to **collect signatures for the following warrant articles**:
+The committee voted to collect signatures for the following warrant articles:
 
 1. Protecting the Taxpayer (Stop State Cost Downshifting)
 2. Public Dollars for Public Schools (Education Freedom Accounts)
 
-## 5. Other Business
+## **Other Business**
 
-- **Nancy** expressed a desire to see greater turnout at demonstrations.
-- **Ashley** announced she is finishing her design contract with the **Carroll County Democrats**.
-- **Chris** reported a need for candidates to run for **Trustees of the Trust Fund** in Jackson, a role that includes approving bills from the Select Board.
+- Nancy expressed a desire to see greater turnout at demonstrations.
+- Ashley announced she is finishing her design contract with the Carroll County Democrats.
+- Chris reported a need for candidates to run for Trustees of the Trust Fund in Jackson, a role that includes approving bills from the Select Board.
 
-## 6. Upcoming Events
+## **Upcoming Events**
 
-- **Democracy on Tap:** Tuesday 1/13 6-7pm @ Cheese Louise
-- **Secretary of State David Scanlan NH Voting Laws:** Tuesday 1/13, 1pm, the Gibson Center
-- **Walk Out Wednesdays**: From 3:00pm-4:00pm
-- **603 Forward Run For It January 2026 Webinar & Training Series**
+- Democracy on Tap: Tuesday 1/13 6-7pm @ Cheese Louise
+- Secretary of State David Scanlan NH Voting Laws: Tuesday 1/13, 1pm, the Gibson Center
+- Walk Out Wednesdays: From 3:00pm-4:00pm
+- 603 Forward Run For It January 2026 Webinar & Training Series
     - Run For It with ABLE NH — Tuesday, January 13 at 6:00 PM (Zoom)
     - Run For It: School Board — Tuesday, January 20 at 6:00 PM (Zoom)
     - Ready to Run — Monday, January 26 at 6:00 PM (Zoom)
-- **Repro Equity Now Legislative Power Huddle: Wed.1/21 from 6:30–7:30 PM, Zoom**
-- **Repro Freedom Fund Queer Care Listening Sessions:** Littleton session on Tuesday, February 10 from 5:45–8:00 PM and virtual session on Thursday, February 19 from 5:45–8:00 PM.
-- **Unity Works Sunday**: Sunday, 1/25 at 4:00 pm @ Whitney Center
-- **MWV Resistance:** January 17th Day of Action, more details to come
-- **Next Jackson Dems Meeting:** Monday 02/09 @ Old Jackson Library
+- Repro Equity Now Legislative Power Huddle: Wed.1/21 from 6:30–7:30 PM, Zoom
+- Repro Freedom Fund Queer Care Listening Sessions: Littleton session on Tuesday, February 10 from 5:45–8:00 PM and virtual session on Thursday, February 19 from 5:45–8:00 PM.
+- Unity Works Sunday: Sunday, 1/25 at 4:00 pm @ Whitney Center
+- MWV Resistance: January 17th Day of Action, more details to come
+- Next Jackson Dems Meeting: Monday 02/09 @ Old Jackson Library
 
-## 7. **Adjournment &** Action Items
+## **Adjournment & Action Items**
 
 ### **Action Items**
 
-1. **Ashley** to send out finalized warrant article language, distribute signature collection pages to attendees, and send out informational handouts.
-2. **All members** to return collected signatures by **January 31**.
-    - **Chris** to speak publicly about EFAs.
-    - **Ashley, Emily, or Jake** to speak about keeping property taxes low.
-3. **Jake** to add Joyce’s friend to the newsletter distribution list.
+1. Ashley to send out finalized warrant article language, distribute signature collection pages to attendees, and send out informational handouts.
+2. All members to return collected signatures by January 31.
+    - Chris to speak publicly about EFAs.
+    - Ashley, Emily, or Jake to speak about keeping property taxes low.
+3. Jake to add Joyce’s friend to the newsletter distribution list.
 
-### **Adjournment:**
+### **Adjournment**
 
 The meeting adjourned at 8:15pm.
 
