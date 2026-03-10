@@ -1,5 +1,74 @@
 const markdown = `
 
+## **Monday, March 9, 2025**
+
+## Jackson Updates
+
+### Election Day
+
+The group discussed upcoming Election Day matters.
+
+- **Ballot Measures:** The group reviewed the contents of Tuesday’s ballot and discussed the structure of Voting Day and Town Meeting
+
+### Town Meeting
+
+The following Town Meeting topics were discussed:
+
+- Jackson Democrats Warrant Articles
+    - **Protecting the Taxpayer: Stop State Cost Downshifting:** Ashley will present on this topic.
+    - **Public Dollars for Public Schools: Education Freedom Accounts (EFAs):** Chris will present on this topic pending confirmation via Ashley.
+
+### Print and Website Updates
+
+- Jake will continue to pursue printable material to advertise the existence and mission of the Jackson Democrats group.
+- The group discussed linking the Jackson Democrats website to the state-level voting page (see Action Items).
+
+## Carroll County Updates
+
+### Canvassing Efforts
+
+The group discussed organizing canvassing activities focused on understanding constituent concerns in advance of the midterm elections.
+
+- **Focus Areas:** Conway and southern Carroll County were identified as priority canvassing areas.
+- **Goal:** To identify the issues that matter most to constituents so that candidates can engage with them directly leading up to the midterms.
+- **Coordination:** Ashley is working with Kim to build out canvassing efforts. The group noted that tax maps could be used to obtain addresses for low-propensity registered Democrats.
+- **Vote Builder:** Nancy expressed support for having a county-level Vote Builder expert rather than training individual local chapters. Genevieve Christy of Tamworth was identified as a potential resource, though she noted distance limitations for Conway and Jackson.
+- **Post-Primary Outreach:** Nancy and Meredith discussed combining efforts to send postcards to low-propensity Democratic voters following the primary.
+
+### Open Democracy Voter Registration Drive Workshop
+
+The group discussed hosting or participating in a voter registration drive workshop in coordination with Open Democracy.
+
+- **Kennett High School Outreach:** A staff member at Kennett expressed limited enthusiasm for the effort. The group discussed whether another contact at Kennett High School might be more receptive. Meredith volunteered to reach out to personal contacts to identify an alternative point of contact (see Action Items).
+- **Jackson Teen Residents:** The group raised the question of whether outreach to Jackson's teenage residents would be appropriate or effective. The group will discuss this in more detail closer to the midterms.
+
+## Upcoming Events
+
+- **Walk Out Wednesdays:** Ongoing. Every Wednesday, 4:00–5:30 PM.
+- **Unity Works Sunday:** Sunday, March 15, 2025, 4:00 PM @ Jackson Community Church. Taylor Maine from the NH ACLU will present information on the NH Legislature.
+- **State of the State:** Sunday, March 22 or March 29, 2025 (date TBD) @ The Ledge. Time TBD.
+- **In Our Own Words – Reproductive Storytelling Event:** Wednesday, March 25, 2025, 6:00–8:00 PM. Reach out to Ashley to attend.
+- **No Kings Protest:** Saturday, March 28, 2025, 12:00–2:00 PM @ Four Corners.
+
+## Action Items
+
+### Short-Term
+
+- **Jake:** Create a QR code to advertise the existence and mission of the Jackson Democrats, or develop a website element featuring the group's information.
+- **Group:** Add a link on the Jackson Democrats website directing visitors to the state-level voter registration or voting information page.
+
+### Long-Term
+
+- **Meredith and Nancy:** Spearhead a postcard campaign encouraging low-propensity local Democratic voters to vote, to be launched after the midterm elections conclude.
+- **Meredith:** Contact personal connections to identify an alternative contact at Kennett High School who may be interested in hosting a voter registration drive.
+
+## Next Meeting
+
+**Monday, April 13, 2025, 7:00 PM**
+Old Jackson Library
+
+--- 
+
 ## Monday, January 12th, 2026
 
 ## **Call to Order**
