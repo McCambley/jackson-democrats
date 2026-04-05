@@ -49,6 +49,14 @@ h1 {
   padding-bottom: 1.5rem;
 }
 
+.single-line {
+  color: #444;
+  font-size: 1.08rem;
+  line-height: 1.6;
+  margin: 0;
+  padding-bottom: 0rem;
+}
+
 .inline-link {
   color: #2a3d6c;
   font-weight: 500;
