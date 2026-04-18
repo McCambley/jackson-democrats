@@ -1,5 +1,67 @@
 const markdown = `
 
+## Monday, April 13, 2026
+
+## Jackson Updates
+
+### Leafletting
+
+The committee discussed leafletting efforts in Jackson. Members noted that items can be distributed through the ENews. Discussion centered on whether to focus efforts on a single location for maximum impact, or to try to have an impact in multiple locations. It was suggested that Anita and Chris be consulted on the best approach for the organization. Ashley emphasized that there should be some form of get-out-the-vote effort in Jackson even if we decide to focus efforts in Conway.
+
+### Newsletter Flyers
+
+It was reported that newsletter flyers have been posted around town.
+
+### Website and Voter Information
+
+Meredith continues to be in contact with the town regarding updates to the website with current voter information.
+
+## Carroll County Updates
+
+### Conway Canvassing
+
+Canvassing in Conway is set to begin in May. The purpose of the canvassing effort is to engage voters about the issues they care about, with the goal of starting conversations and helping candidates tailor their messages accordingly.
+
+Kim and Ashley are developing a training program to equip volunteers with the skills and autonomy to conduct canvassing on their own.
+
+### Voter Registration Drives
+
+The committee noted that efforts to coordinate voter registration drives with Kennett have not generated significant interest. Further discussion centered around any additional leads or venues for hosting drives if that is an avenue the committee pursues.
+
+### Candidate Recruitment
+
+The committee discussed candidate recruitment efforts in the area. There is an ongoing need for candidates in several local races. Members were encouraged to reach out if they know anyone interested in running for office.
+
+The "Run for It" training series, organized by 603 Forward, was highlighted. The deadline to register is this Friday. The program consists of nine sessions, with participants asked to attend at least five.
+
+### Fourth of July Parades
+
+Interest was gauged for participating in Fourth of July parades. The Mount Washington Valley Democrats are planning a float, with Ed organizing the effort. Members were encouraged to get involved.
+
+## Upcoming Events
+
+- **Walk Out Wednesdays:** 4:00–5:00 PM
+- **Supervisors of the Checklist – Voter Registration Session:** Monday, April 20, 2026, 5:00–5:30 PM at the Jackson Town Offices
+- **Unity Works Sunday:** Sunday, May 10, 2026, 4:00 PM at the Jackson Community Church
+- **NHFPI – The State Budget: What You Need to Know:** Wednesday, May 6, 2026, 6:00 PM at the North Conway Community Center
+- **League of Women Voters at the Jackson Library:** Wednesday, June 17, 2026, 5:00 PM (will cover U.S. voting history, New Hampshire voting history, current NH bills, and restrictions on voting, including the SAVE Act)
+- **Next Jackson Democrats Meeting:** Monday, May 11, 2026, 7:00 PM at the Old Jackson Library
+
+## Projects for the Next Three Months
+
+Ashley asked whether any members are interested in getting projects started over the coming months.
+
+- Nancy offered to host a fundraiser at her home and requested that a date and time be determined.
+- Meredith announced the League of Women Voters event at the Jackson Library on June 17. She noted that this event will differ from the Supervisors of the Checklist session and will cover voting history in the United States and New Hampshire, current bills in the state legislature, and frustrations with voting restrictions in New Hampshire.
+
+## Action Items
+
+- **Ashley:** Consult with Anita and Chris regarding the organization's leafletting, the get-out-the-vote strategy, and attending future meetings.
+- **Jake and Ashley:** Contact Caroline about hosting a voter registration drive.
+- **Jake:** Advertise upcoming events.
+
+---
+
 ## **Monday, March 9, 2025**
 
 ## Jackson Updates
