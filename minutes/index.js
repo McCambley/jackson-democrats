@@ -1,5 +1,61 @@
 const markdown = `
 
+## Monday, May 11, 2026
+
+## Jackson Updates
+
+### Election Day Support
+
+- Nancy offered to coordinate election day support, including ballot inspector outreach.
+- Phillip, the new North Country NHDP liaison sent out info in the Grassroots Bulletin on election day support, worth reaching out to him for support
+- Recruitment has been placed in the ENews previously — worth repeating.
+- Action: Determine whether North Conway nursing home residents may still be registered voters in Jackson.
+    - Nancy could possibly reach out to the nursing home and maybe Emily Benson (Emergency Services) who may know of folks with transportation issues on election day.
+- Meredith reached out to a teacher at Kennett High — no response yet.
+
+### Fundraiser & House Party
+
+- Nancy offered her home as a venue for a fundraiser/house party closer to the election.
+- Proposed sequence: Summer energizer fundraiser (for loyal Dems) → September meet & greet/ pre-election fundraiser at Nancy's.
+- Meredith will look into the Old Jackson Library.
+- Flyers and advertising: Dems can create flyers for the meet & greet.
+
+### Outreach
+
+- Adam wants to increase visibility and learn what constituents care about. Focus: highlight positives rather than fear-based messaging.
+- Canvassing: Adam interested in joining canvassing using the "Canvass 1,000" model for Jackson/Bartlett Canvassing
+    - Ashley will reach out to Bartlett Dems
+- Voter Registration: Ensure voters check their registration status.
+    - Create a small card with a QR code linking to voter registration status — could be done in real time at events.
+- Tabling: Idea to pull up chairs at the Post Office on a Saturdays to tell people about changed voting laws.
+    - Meredith will ask Keith about tabling there.
+- Signage: Adam would like help identifying high-traffic locations for signs — plan for after the primary.
+
+### Town Website
+
+- WIN: Town website now links to the Secretary of State's website about voter registration and is easy to find.
+
+## Carroll County Updates
+
+- **Conway Canvass Training — May 12:** Targeting 783 registered Democrats who did not vote in either 2024 or 2022.
+    - Conversational canvassing to identify the issues constituents want state legislators to address.
+    - Meredith and Bobbie both interested in being canvassing scribes.
+- **Ashley:** Share our committee's efforts with Phillip (NHDP) and Frank Anthony (NHDP).
+
+## Recent Events
+
+- **Fed Up and Fired Up:** Sunday, May 17 | Mount Cabot Maple's Mead Hill, Lancaster
+
+## Upcoming Events
+
+- **Walk Out Wednesdays:** Weekly, 4:00–5:30 PM
+- **League of Women Voters:** Wednesday, June 17 | 5:00 PM | Jackson Library
+- **Unity Works Sunday:** Sunday, June 28 | 4:00 PM | Jackson Community Church
+    - Ashley to connect Greg and Adam.
+- **Next Jackson Dems Meeting:** Monday, June 8 | 7:00 PM | Old Jackson Library
+
+---
+
 ## Monday, April 13, 2026
 
 ## Jackson Updates
