@@ -6,7 +6,6 @@ const markdown = `
 
 ### Election Day Support
 
-- Nancy offered to coordinate election day support.
 - Phillip, the new North Country NHDP liaison sent out info in the Grassroots Bulletin on election day support, worth reaching out to him for support
 - Recruitment has been placed in the ENews previously — worth repeating.
 - Action: Determine whether North Conway nursing home residents may still be registered voters in Jackson.
