@@ -1,5 +1,105 @@
 const markdown = `
 
+## Monday, June 8th, 2026
+
+## **General Remarks**
+
+It was noted that the legislative session is wrapping up and election season is picking up.
+
+## **Jackson Updates**
+
+### **May Meeting Recap**
+
+The recap of the May meeting with Adam was reviewed. Adam expressed interest in:
+
+- Increasing visibility
+- Learning what constituents care about
+- Highlighting positives rather than fear-based messaging
+- A "Canvass 1,000" model for Jackson/Bartlett canvassing
+- Identifying high-traffic locations for signs, with planning to occur after the primary
+
+### **Canvassing and Voter Outreach Discussion**
+
+- The committee discussed the effectiveness of canvassing, additional methods of getting out the vote, and ways of learning what voters care about. The group's view was that even without canvassing, this information could still be reasonably inferred.
+- Nancy expressed interest in phone banking and inquired whether phone numbers could be obtained, suggesting a possible phone bank campaign two weeks and one week before the election.
+- The committee is aligned on tabling by the post office in lieu of canvassing.
+
+### **Election Calendar and Candidate Landscape**
+
+- Primaries will be held in September; the general election is in November. Candidate filing wraps up on Friday.
+- It was noted that there has been difficulty finding replacement candidates in Conway.
+
+### **Democratic Candidate Slate**
+
+The committee reviewed the slate of Democratic candidates, including:
+
+- Anita Burroughs: State Representative, Carroll County District 2
+- Adam Heard: State Representative, Carroll County District 2
+- Bobbi Boudman : State Senate, District 3
+- Cinde Warmington: Governor
+- Maggie Goodlander: U.S. House of Representatives, District 2
+- Chris Pappas: U.S. Senate
+- Luz Bay: Executive Council, District 1
+
+A full list of elected officials and candidates is available at https://www.ccnhdemocrats.org/elected-officials
+
+### **Legislative Session Presentation**
+
+- Anita proposed an event at the Ledge regarding the legislative session (with possible connection to Dems on Tap).
+- Ashley asked whether a similar prior event had been well attended; no one present could recall.
+- It was suggested that candidates could be invited to attend such an event.
+
+### **Election Day Support and Fundraiser**
+
+- The plan under consideration is a summer energizer fundraiser for loyal Democrats, transitioning to a September meet & greet / pre-election fundraiser at Nancy's.
+- The Old Jackson Library was noted as an potential venue; Meredith will look into it.
+- The committee discussed that one event is probably sufficient, at least one that the committee will fully support. A date has not yet been set. It was suggested that Bartlett could potentially host a supporting event as well.
+
+### **Campaign Signs**
+
+- The committee discussed identifying locations for campaign signs. Candidates can be asked to provide their signs for the committee to place.
+- Potential locations identified include by the bridge and down the road on Route 16, with additional locations to be determined.
+
+### **Voter Registration Efforts**
+
+- League of Women Voters: Advertising will run in the Jackson E-News and the JPL Newsletter.
+- Voters should be encouraged to check their registration status.
+- Meredith noted that before holding any voter registration events, the committee should talk to and coordinate with the Supervisors of the Checklist. Liz is expected to have substantial news at the upcoming library event.
+
+## **Carroll County Updates**
+
+The following items were shared with the committee:
+
+- Conway canvassing continues until June 30th; members interested in being trained were invited to express interest.
+- White Mountain Pride, Saturday, June 27th: volunteers are sought for two-hour shifts between 10:00 AM and 4:00 PM.
+- NHDP volunteer opportunities (interest form here: link), including:
+    - Becoming a Poll Observer
+    - Helping on the Voter Assistance Hotline
+    - Becoming an Inspector of Election (Jackson reportedly still needs people)
+    - Phone banking with the Voter Access Team to recruit volunteers
+
+## **Upcoming Events**
+
+- **Walk Out Wednesdays:** Wednesdays, 4:00–5:00 PM
+- **Dems on Tap with Luz Bay:** Tuesday, June 9th, 6:00 PM @ Cheese Louise
+- **League of Women Voters: Voting Laws Program:** Wednesday, June 17th, 5:00 PM @ the Jackson Library
+- **MWV Pride:** Saturday, June 27th, 10:00 AM–4:00 PM @ Schouler Park
+- **Unity Works Sunday:** Sunday, June 28th, 4:00 PM @ Jackson Community Church
+- **Next Jackson Dems Meeting:** Monday, July 13th, 7:00 PM @ Old Jackson Library
+
+## **Action Items**
+
+- **Nancy:** Reach out to the town office regarding where to put campaign signs.
+- **Jake:** Include the League of Women Voters Voting Laws program (Wednesday, June 17th, 5:00 PM, Jackson Library) in the newsletter.
+- **Jake:** Include the NHDP volunteer interest form link in the minutes and newsletter.
+- **All members:** Volunteer via the NHDP interest form: link
+
+## **Next Meeting**
+
+**Monday, July 13th, 7:00 PM @ Old Jackson Library**
+
+---
+
 ## Monday, May 11, 2026
 
 ## Jackson Updates
