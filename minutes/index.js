@@ -1,5 +1,71 @@
 const markdown = `
 
+## Monday, July 13, 2026
+
+## **Jackson Updates**
+
+**Legislative Session Recap & Fundraiser**
+
+- Anita proposed hosting a Legislative Session recap, with a suggestion to potentially coordinate with "Dems on Tap."
+- A fundraiser / house party was discussed:
+    - Proposed timing: the week of September 21 or later.
+    - Focus of the fundraiser: the campaigns of candidates Luz Bay and Adam.
+
+**Sign Placement**
+
+Reported by Nancy. Potential locations for campaign signs:
+
+- **Town:** the triangle by the covered bridge.
+- **Black Mountain:** none currently secured along Route 16.
+- Additional locations were invited from members.
+
+Discussion points:
+
+- Jake to include a request in the newsletter for residents who want signs.
+- Ashley to reach out to candidates for signs once a rough number of requests is known.
+- Members were encouraged to display at least one sign for a well-known candidate, so that lesser-known Democratic candidates are recognized as Democrats.
+- Signs to be placed one month before the election; interested residents to email Nancy.
+
+## **Voter Outreach — Tabling at the Post Office**
+
+Reported by Meredith.
+
+- Chris Bridge expressed enthusiasm for the initiative moving forward.
+- The tabling would be conducted under the Unity Works banner, with Democrats doing the legwork; Greg approved this arrangement.
+- Meredith has flyers and resources from the League of Women Voters (LWV).
+- Chris identified absentee voting as the gap where the group can help.
+- Nancy proposed a flyer on absentee voting to be placed at the post office.
+- Meredith requested flyers listing dates, times, and locations for elections.
+- The group intends to coordinate with Chris and Karen to amplify their work.
+- **Dates:** following a conversation with Chris, two tabling dates will be selected — one before the primary and one before the general election — likely on Saturdays.
+
+## **Upcoming Events**
+
+- **Carroll County "Pathway to Victory" Workshop** — Wednesday, July 15, 3:30–5:30 PM, The Farmstand, Tamworth.
+- **Walk Out Wednesdays** — Wednesdays, 4:00–5:30 PM, Jackson Covered Bridge.
+- **Representative Retirement Party** — Tuesday, July 21, 5:00 PM, Tuckerman Brewery, Conway.
+- **Bans Off Our Bodies Story Slam** — Wednesday, July 22, 6:00 PM, North Main Cafe, Wolfeboro.
+- **Unity Works Sunday** — Sunday, August 23, 4:00 PM, Jackson Community Church.
+- **Next Jackson Dems Meeting** — Monday, August 10, 7:00 PM, Old Jackson Library.
+
+## **Action Items**
+
+- **Meredith and Ashley** — meet with Chris and Karen regarding tabling.
+- **Group** — secure two tabling dates by August 10.
+- **Nancy** — email Anita regarding the fundraiser date and time.
+- **Ashley** — reach out to Luz.
+- **Ashley** — identify Democrats on Route 16 (including 16A) who may want signs.
+- **Jake** — in the newsletter, invite residents to email Nancy if interested in candidate signs; note the importance of signs, placement one month before the election, and prompt removal immediately afterward.
+- **Nancy** — email Anita regarding whose signs residents want.
+- **Nancy** — email interested residents and serve as keeper of the sign list.
+- **Ashley** — contact the NHDP / Carroll County Democrats about the group's efforts.
+
+## **Next Meeting**
+
+Monday, August 10, 2026, 7:00 PM, Old Jackson Library.
+
+---
+
 ## Monday, June 8th, 2026
 
 ## **General Remarks**
