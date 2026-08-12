@@ -1,5 +1,99 @@
 const markdown = `
 
+## Monday, August 10, 2026   
+
+## Jackson Updates
+
+### Adam Heard Event
+
+*Presented by Nancy.*
+
+The purpose of the event is to raise the visibility of Adam Heard and Luz Bay; it is not intended solely as a fundraiser. Nancy has not yet heard from Luz regarding coordination.
+
+For context, Amy recently hosted an event for Maura Sullivan (a District 1 Congressional candidate seeking the seat being vacated by Representative Pappas). The event was held on a Sunday from 4:00–5:30 PM, drew 38 attendees, and was noted for its favorable timing.
+
+Key decisions and details:
+
+* **Focus:** The group agreed to focus the event on Adam and Luz. Other candidates may be informed of the event but will not be invited to speak.  
+* **Date:** Nancy proposed September 13 and September 27 as options. The group opted for **September 13**, pending confirmation against Luz's event schedule.  
+* **Time:** 4:00–5:30 PM (first choice).  
+* **Location:** Nancy's home (address distributed upon invite).  
+* **RSVP & advertising:** Nancy prefers a Mobilize link for RSVPs. Per Amy's guidance, events posted through Mobilize should not disclose the location until 24 hours in advance; individual, person-to-person email invitations are also acceptable.  
+* **Refreshments:** Nancy will provide wine and snacks and will advise whether others may contribute.  
+* **Materials:** Adam will bring lawn signs.  
+* **Note:** Adam indicated he would welcome attendance by local Democrats.
+
+### Signs
+
+*Presented by Nancy.*
+
+Nancy identified 18 registered Democrats living on Route 16\. The group discussed how to distribute signs and how many to obtain.
+
+* **Placement:** Avoid dead-end roads; prioritize placement near signs belonging to well-known Democrats for name recognition. Signs are to be placed on public property (e.g., the triangle) and on private property in highly traveled areas.  
+* **Quantity:** Ashley will reach out to obtain approximately 15 signs.  
+* **Candidate signs to include:** Adam Heard, Luz Bay, Anita Burroughs, Bobbi Boudman, Cinde Warmington, and county commissioners (if signs are available). Reference: Carroll County Democrats 2026 candidates page — [https://www.ccnhdemocrats.org/2026-candidates](https://www.ccnhdemocrats.org/2026-candidates)
+
+### Voter Outreach Tabling
+
+*Presented by Meredith.*
+
+Meredith shared a flyer from the League of Women Voters. The Supervisors of the Checklist (SOC) appear supportive of the effort.
+
+* **Purpose / key information:** Update voters on voting law changes and ensure that those who intend to vote are registered and educated on how to vote. Remind residents about absentee voting and ensuring they are properly set up with the town; confirm that each voter's physical ID matches the name on the voter checklist; distribute the flyer.  
+* **Dates:** The effort should take place before the primary and before the general election. The group selected **August 29**, with **September 5** as a backup.  
+* **Location:** Jackson Post Office.  
+* **Staffing:** Joyce Allen and Bobbi Meserve will staff the table; Meredith will attend pending.  
+* **Materials:** Meredith will prepare a poster highlighting the most important points for voters.  
+* **Coordination:** Unity Works will consider involvement at its next meeting; a second day may be added if enough Unity Works volunteers wish to participate.
+
+### General Update from Adam Heard
+
+Adam provided a broader update on candidate-support efforts:
+
+* He is working to support candidates, including those running for the Carroll County Commission (reference: postcard).  
+* He emphasized that personal contact is the most effective form of outreach.  
+* He cited a study finding that Kamala Harris received approximately 30% more votes than the Democratic gubernatorial candidate, indicating limited down-ballot support for Democrats.  
+* He stressed the need for better coordination among candidates.  
+* Meredith suggested distributing a flyer listing all Democratic candidates at the upcoming event. Adam noted that the Carroll County Democrats have funded ballot cards to inform voters about all candidates.
+
+## Upcoming Events
+
+* **Walk Out Wednesdays:** 4:00–5:30 PM, Covered Bridge Triangle.  
+* **Candidate Forum** with Luz Bay, Bobbi Boudman, and Karishma Manzur: August 16th 5:00 PM, Runnells Hall, Chocorua.
+* **Climate Future Film Festival:** Tuesday, August 18, 7:00–9:00 PM, Whitney Community Center.  
+* **Unity Works Sunday:** Sunday, August 23, 4:00 PM, Jackson Community Church.  
+* **Lake to Summit Reception and Rally:** Sunday, September 6, 5:00 PM, Page Hill Public House, Tamworth.  
+* **Next Jackson Dems Meeting:** Monday, September 14, 7:00 PM, Old Jackson Library.  
+* **Starting Point — Introduction to Services and Volunteer Training:** Thursday, October 1, 5:00–7:00 PM. Location provided upon signup (likely online).  
+* **Gibson Center Candidate Event:** Tuesday, August 11, 12:30 PM (approximately 10 candidates expected to attend).
+
+## Upcoming Election & Town Meeting Dates
+
+All held at the Whitney Community Center.
+
+* **State Primary Election:** Tuesday, September 8, 2026, polls open 8:00 AM–7:00 PM.  
+* **General Election:** Tuesday, November 3, 2026, polls open 8:00 AM–7:00 PM.  
+* **Town Election:** Tuesday, March 9, 2027, polls open 8:00 AM–7:00 PM.  
+* **Town Meeting:** Thursday, March 11, 2027, 7:00 PM.
+
+## Action Items
+
+* **Jake:** Create the Mobilize event and invitation email for the Adam Heard event. Send invitations three weeks before the event, with follow-up messages one week before and one day before.  
+* **Jake:** Prepare a rough ballot-card format within two weeks, then finalize the ballot card once the State Primary results are available (State Primary: September 8, 2026). The Carroll County Democrats can fund it.  
+* **Jake:** Post the finalized ballot card, an easy "2026 Democratic Candidates" reference, on the website.  
+* **Ashley:** Obtain approximately 15 signs and coordinate with Nancy to ensure sign visibility.  
+* **Meredith:** Prepare a checklist of the most important non-partisan information for the voter outreach event (August 29 or September 5).
+
+## Adjournment
+
+The meeting adjourned at 8:15 PM.
+
+## Next Meeting
+
+Monday, September 14, 2026, 7:00 PM, Old Jackson Library.  
+
+---
+
 ## Monday, July 13, 2026
 
 ## **Jackson Updates**
