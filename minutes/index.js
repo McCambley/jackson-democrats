@@ -1,5 +1,105 @@
 const markdown = `
 
+## Monday, October 12, 2026
+
+## New Updates
+
+### Question 2: School District Tax Cap
+
+The group is encouraging residents to support our students and educators by voting NO on Question 2\. The question as it will appear on the ballot:
+
+*"Shall the Town of JACKSON limit property tax growth for JACKSON SCHOOL DISTRICT (SAU \#9) under RSA 32:5-i? If adopted for a two-year period: (1) the local property tax levy may not grow beyond the prior year's amount, adjusted for inflation and new construction; (2) SAU central office spending may not exceed 6 percent of total school district appropriations; and (3) bonded capital costs are excluded from both limits. These caps apply only to administrative operations of the SAU central office and do not affect classroom instruction, school-based services, or other municipal expenditures. These limits may be overridden as provided in RSA 32:5-i. Adoption requires a three-fifths (3/5) majority vote."*
+
+Because adoption requires a three-fifths (60%) majority, the group agreed the outcome will come down to turnout. Even though Jackson leans blue, getting as many voters as possible to the polls on Election Day still matters.
+
+Plans to spread the word:
+
+- Meredith will share a non-partisan explanation, written by Anita Burroughs, of why the measure would hurt teachers and the quality of education provided.  
+- Meredith will submit a letter to the editor.  
+- Meredith will talk about the question and encourage a no vote at the October 31 post office tabling (see Voter Outreach Tabling below).  
+- Nancy will try to get signs urging a no vote, with suggested wording: "Vote No on Question \#2 (HB 1300\) | Keep School Decisions Local."  
+- Ashley will print flyers.
+
+Resources shared:
+
+- New Hampshire Bulletin, how the new school district tax cap law works (noted as the most helpful explainer): [https\://newhampshirebulletin.com/2026/07/17/a-new-law-puts-school-district-tax-caps-on-the-november-ballot-heres-how-it-works/](https://newhampshirebulletin.com/2026/07/17/a-new-law-puts-school-district-tax-caps-on-the-november-ballot-heres-how-it-works/)  
+- Kent Street Coalition, Vote No on the so-called tax cap ballot question: [https\://kentstreetcoalition.org/vote-no-on-the-so-called-tax-cap-ballot-question/](https://kentstreetcoalition.org/vote-no-on-the-so-called-tax-cap-ballot-question/)
+
+## Jackson Updates
+
+### Adam & Luz Event: Reflections
+
+Everyone had a great time at the event for Adam Heard and Luz Bay. Nancy said attendees came away loving Luz and impressed with Adam.
+
+### Signs
+
+Nancy stressed that signs are most needed in places that aren't already blue. Since Jackson leans Democratic, signs should go down in Conway. Nancy has been passing out signs locally and took the rest back to Conway to be distributed there, where they'll make a bigger impact.
+
+### Voter Outreach Tabling
+
+Presented by Meredith.
+
+- When: Saturday, October 31, 9:00 AM–12:00 PM  
+- Where: The post office  
+- Who: Meredith, joined by Bobbi Meserve  
+- What: Meredith has information on voter registration, checking your registration, and absentee voting, plus a reminder that residents can register on Election Day. She will also talk about Question 2 and encourage a no vote.  
+- Outreach: Ashley will touch base beforehand to remind folks and see whether anyone else wants to take part.  
+- Treats: Meredith will bring candy.
+
+### Jackson Phone Banking
+
+The group will get together to make calls, with call lists also available for anyone who prefers to call on their own time.
+
+- When: Noon, Saturday, October 31  
+- Where: The Old Jackson Library. Jake will check that it's open.  
+- Who we'll call: The group will work from the list of 281 people who didn't vote in one of the last three elections, calling anyone who isn't a Republican. There's no target number; volunteers will keep calling until they run out of steam.  
+- Talking points: Question 2 and all of the Democratic candidates down the ballot.  
+- Dialing software: Ashley will reach out to the NHDP.
+
+## Election Actions
+
+Volunteer opportunities shared at the meeting, running through the weekend before Election Day.
+
+- Tuesday, October 13: Conway Canvass (Climate), 4:00–6:30 PM, Ski NH Office  
+- Wednesday, October 14: Postcard Writing, 5:30–7:30 PM, 50 White Mtn. Highway  
+- Saturday, October 17: Littleton Planned Parenthood, 9:00 AM–1:00 PM  
+- Saturday, October 17: Conway Dems GOTV, 10:00 AM, 50 White Mtn. Highway  
+- Saturday, October 17: Berlin ACLU GOTV, 11:00 AM, Veterans Memorial Park  
+- Sunday, October 18: Conway Dems GOTV, 12:00 PM, 50 White Mtn. Highway  
+- Saturday, October 24: Conway GOTV, 10:00 AM, 50 White Mtn. Highway  
+- Saturday, October 24: Berlin ACLU GOTV, 11:00 AM, Veterans Memorial Park  
+- Sunday, October 25: Conway GOTV, 12:00 PM, 50 White Mtn. Highway  
+- Saturday, October 31: Conway GOTV, 10:00 AM, 50 White Mtn. Highway, Conway  
+- Saturday, October 31: Conway Lit Drop (Climate Issues), 10:00 AM–12:00 PM, Ski NH  
+- Sunday, November 1: Conway GOTV, 12:00 PM, 50 White Mtn. Highway, Conway
+
+## Upcoming Events
+
+- Walk Out Wednesdays: Wednesdays, 4:00–5:30 PM  
+- Pappas Visibility Event: Tuesday, October 13, 9:00 AM, 71 Hobbs St., Conway  
+- 2026 State of Housing Breakfast (MWV Housing Coalition): Friday, October 16, 8:00–11:00 AM, Tin Mountain  
+- No Kings Wolfeboro: Saturday, October 17, 12:00–2:00 PM, 151 Main St.  
+- Unity Works Sunday: Saturday, October 17, 5:00–8:00 PM, Whitney Community Center  
+- Dems on Tap: Tuesday, October 27, 6:00 PM, Cheese Louise  
+- Next Jackson Dems Meeting: Monday, November 9, 7:00 PM, Old Jackson Library
+
+## Action Items
+
+- Meredith: Share Anita Burroughs's non-partisan explanation of Question 2\.  
+- Meredith: Submit a letter to the editor on Question 2\.  
+- Meredith: Staff the post office table on Saturday, October 31, 9:00 AM–12:00 PM, and bring candy.  
+- Nancy: Try to get "Vote No on Question \#2" signs.  
+- Ashley: Print flyers on Question 2\.  
+- Ashley: Touch base before October 31 to remind folks about tabling and see whether anyone else wants to take part.  
+- Ashley: Reach out to the NHDP about dialing software for phone banking.  
+- Jake: Check whether the Old Jackson Library is open for phone banking on Saturday, October 31\.
+
+## Next Meeting
+
+Monday, November 9, 2026, 7:00 PM, Old Jackson Library.  
+
+---
+
 ## Monday, August 10, 2026   
 
 ## Jackson Updates
