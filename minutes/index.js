@@ -1,5 +1,74 @@
 const markdown = `
 
+## Monday, November 9, 2026
+
+## Federal Updates
+
+### Congressional Leadership
+
+The group discussed Democratic leadership in the U.S. House and Senate, including Senator Chuck Schumer, current Senate Majority Leader; Representative Hakeem Jeffries, who is poised to become Speaker of the House; and Senator Chris Van Hollen, described as pro-Palestine and anti-ICE.
+
+The group was generally in favor of new leadership but did not reach a view on who would be best suited for the roles. Points raised during the discussion included:
+
+* Joyce noted that Montana voted to get money out of politics.  
+* The group discussed whether Jeffries is the right fit for the role. Jake expressed the view that a stronger leader should hold the position.  
+* Members discussed the Democratic Party as a big tent, and noted that with a Democratic majority in both the House and Senate, members can now challenge Democrats within the party to achieve better representation.  
+* Jake noted that accountability is different from retribution.  
+* The group reached a consensus that, while accountability is important, Democrats should focus on affordability.
+
+**Action item:** Members are encouraged to call Senator-elect Chris Pappas, Senator Maggie Hassan, and Representative Maggie Goodlander to share their views. Any member may make these calls. Representative Goodlander's office can be reached at (202) 225-5206.
+
+## State Updates
+
+### Legislative Service Requests
+
+Legislative Service Requests (LSRs) for the 2027 New Hampshire House and Senate legislative session are due November 18\. Members may send ideas to their representatives for issues they would like worked on at the state level. Due November 18\.
+
+Ashley noted that many forward-thinking organizations are already working alongside legislators to advance policy.. Members may still send requests individually, but those organizations may have more influence and momentum. Alternatively, members could contact those organizations to share the group's priorities, or reach out to State Representatives Anita Burroughs and Adam Heard. Meredith will message Anita to ask, "What can constituents do to support you?".
+
+It was also noted that Anita is supporting Jim Maggiore for Speaker of the New Hampshire House. Ashley was surprised Anita had ill feelings towards Rep. Simpson, as Ashley and her colleagues work closely with Rep. Simpson on reproductive health care issues and thinks she would be a fit leader. 
+
+### Organization Day
+
+On December 2nd, also known as Organization Day, decisions are made on whether to keep or replace positions such as Secretary of State, State Treasurer, and House and Senate leadership.
+
+Carleigh Beriont is running for Secretary of State. Other candidates include Patrick Long and James Butler, and Pat Scanlan is also in contention. Members expressed strong support for Carleigh and were encouraged to call their legislators if they would like her elected. It was noted that Carleigh would be out in the communities trying to increase voter registration and turnout. 2027 Legislative Session
+
+The 2027 legislative session begins January 6, 2027\. House bills are due by January 15\.
+
+## Jackson Updates
+
+### Question 2
+
+Question 2, or  HB 1300 asked voters whether to cap increases in their local school district property taxes and limit school administrative unit (SAU) spending. Jackson results: Yes, 379; No, 307\. Would have needed a 2/3s vote to have passed. 
+
+Members expressed concern that the wording of Question 2 was unfair and that the messaging around it was confusing. Members noted that claims the measure would lower taxes for voters were not necessarily accurate and obscured its consequences.
+
+### Our Economy, Our Future
+
+Our Economy, Our Future is coming on January 11, 2027, with the Bartlett Democrats. It was noted that the Jackson Democrats could invite any organization they wish to speak to the group.
+
+### Warrant Articles
+
+Warrant articles are forthcoming. 
+
+## Upcoming Events
+
+* **Walk Out Wednesdays:** 3:00–4:00 PM  
+* **Unity Works Sunday:** Date to be determined  
+* **NH School Funding Fairness Project Presentation:** Thursday, November 12, 2026, at 6:00 PM, Kennett High School
+
+## Action Items
+
+* Call Senator-elect Pappas and Representative Goodlander to share views on congressional leadership. Any member may make these calls.  
+* Meredith will message Anita to ask what constituents can do to support her.
+
+## Next Meeting
+
+Monday, December 14, 2026, at 7:00 PM, Old Jackson Library.
+
+---
+
 ## Monday, October 12, 2026
 
 ## New Updates
